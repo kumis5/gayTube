@@ -1,0 +1,20 @@
+* {
+  font-family: Roboto, Arial;
+}
+.playlist-titles {
+  background-color: white;
+  border-radius: 15px;
+  padding: 20px;
+  list-style: decimal;
+  padding-left: 40px;
+  margin: 0;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+  font-size: 16px;
+  line-height: 1.6;
+  cursor: pointer;
+}
+
+.playlist-name {
+  text-align: center;
+  color: #2b3c5b;
+}
